@@ -1,4 +1,4 @@
-# new_bmi_calculator
+# BMI_calculator
 
 Android Application to calculate BMI using Flutter
 
